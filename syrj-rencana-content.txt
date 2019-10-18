@@ -3,6 +3,7 @@ RENCANA KONTEN SYRJ
 - Javascrip
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Framwork
 - Interview
 - Vlogs
