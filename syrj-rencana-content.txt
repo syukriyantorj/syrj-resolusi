@@ -1,6 +1,8 @@
 RENCANA KONTEN SYRJ
 
 - Javascrip
+  * ES6
+  * Framework Javascript
 - PHP Framwork
 - Interview
 - Vlogs
