@@ -3,9 +3,11 @@ RENCANA KONTEN SYRJ
 - Javascrip
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
 - PHP Framwork
   ^ Laravel
 - Interview
 - Vlogs
+- Pyton
